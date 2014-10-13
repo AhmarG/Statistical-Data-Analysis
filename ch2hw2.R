@@ -1,3 +1,6 @@
+#Ahmar Gordon
+#STT-3850
+
 #Part 1
 #6
 #a
