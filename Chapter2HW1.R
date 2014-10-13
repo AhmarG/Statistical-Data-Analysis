@@ -1,3 +1,6 @@
+#Ahmar Gordon
+#STT-3850
+
 #1
 Berkeley <- read.csv("C:\\Users\\admin\\AppData\\Local\\Temp\\RtmpoHSgfA\\data71c46664cab")
 sex = Berkeley$Sex
